@@ -1,6 +1,7 @@
 # Terms 
 
  Repository (Repo) 
+
  Branch 
 
 # Commands
@@ -17,3 +18,10 @@
 
 - git branch
 - git checkout -b {branch name}
+- git merge {brand name }: tổng hợp lại file của các branch ??
+- git branch -D {branch name} : Khiểu như xóa 1 brand 
+
+
+> Để chuyển đổi giữa các branch sử dụng **git checkout + username** cần chuyển 
+
+
