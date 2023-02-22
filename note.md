@@ -23,7 +23,7 @@
 - git merge {brand name }: tổng hợp lại file của các branch ??
 - git branch -d {branch name} : Khiểu như xóa 1 brand 
 - git push : đẩy dự án lên 
-
+- git clone + link đường dẫn: lấy thư mục trên github về máy
 - Để chuyển đổi giữa các branch sử dụng **git checkout + username** cần chuyển 
 
 >  Nếu bị lỗi không chuyển branch được thì sử dụng **git commit -m "My message"** => Hong biết giải thích nhưng mà hết lỗi đồ đó =))
