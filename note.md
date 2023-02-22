@@ -8,3 +8,4 @@ Repository (Repo)
 - git status : trang thai cua du an 
 - git add : cho phep chuan bi luu lai thoi diem hien tai cua du an
 - git reset
+- git commit: ghi lai thoi diem cho du an
